@@ -1,0 +1,17 @@
+ Step 1: Create repository   
+ 
+ Step 2: Git initilization (git init)
+ 
+  => check git status (git status)
+  
+ Step 3: untracked file tracked write command "git add (file name or .)"              "." means all files tracked
+ 
+ Step 4: Commit all files write command "git commit -m "commit message" "
+ 
+ Step 5: git branch -M main
+ 
+ Step 6: git remote add origin https://github.com/mamunurrashid8893/Git.git
+ 
+ Step 7: push all files your repository write command git push and branch 	          name "git push -u origin main" 
+ 
+ => Edit any file Repet step 3,step 4 and step 7
