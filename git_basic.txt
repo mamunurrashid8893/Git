@@ -1,3 +1,4 @@
+ 
  Step 1: Create repository   
  
  Step 2: Git initilization (git init)
@@ -15,3 +16,5 @@
  Step 7: push all files your repository write command git push and branch name "git push -u origin main" 
  
  => Edit any file Repet step 3,step 4 and step 7
+
+ 
